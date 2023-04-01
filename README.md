@@ -1,2 +1,1 @@
-# python-rest-api-banking
 
